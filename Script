@@ -1,0 +1,8 @@
+-- Primeiro script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxScriptsByZam/RoScript/refs/heads/main/Script2"))()
+
+-- Pequena pausa opcional (pode remover se quiser)
+task.wait(1)
+
+-- Segundo script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Copy%20Avatar"))()
